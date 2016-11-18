@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "name": "openapi-utils-schema-from-api",
+  "description": "Extract schema from openapi definition",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "json-schema-ref-parser": "^3.1.2",
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangewise/openapi-utils-schema-from-api.git"
+  },
+  "keywords": [
+    "Extract",
+    "schema",
+    "from",
+    "openapi",
+    "definition"
+  ],
+  "author": "Ronald Luitwieler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orangewise/openapi-utils-schema-from-api/issues"
+  },
+  "homepage": "https://github.com/orangewise/openapi-utils-schema-from-api#readme"
+}
