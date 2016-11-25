@@ -7,10 +7,11 @@
     "test": "test"
   },
   "devDependencies": {
+    "standard": "^8.6.0",
     "tape": "^4.6.2"
   },
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "standard && tape test/*.js"
   },
   "repository": {
     "type": "git",

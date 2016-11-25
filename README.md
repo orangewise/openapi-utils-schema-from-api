@@ -1,2 +1,5 @@
 # openapi-utils-schema-from-api
-Extract schema from openapi definition
+
+[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+
+Extract schema from openapi definition.
